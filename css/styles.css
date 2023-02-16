@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(234, 234, 234);
+}
+hr {
+    background-color: rgb(234, 234, 234);
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #B2B2B2;
+    border-width: 5px;
+    width: 4%;
+}
+h1 {
+    color: #00ABB3;
+}
+h3 {
+    color: #00ABB3;
+}
+img {
+    border-radius: 50%;
+  }
